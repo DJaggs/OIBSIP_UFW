@@ -41,7 +41,7 @@ sudo ufw status numbered
 ```
 
 ### 4. Take a screenshot
-Capture the output of `sudo ufw status verbose` showing the active rules and save it to `screenshots/`.
+Capture the output of `sudo ufw status verbose` showed the active rules and save it to `screenshots/`.
 
 ## 📋 Rule Summary
 
@@ -56,7 +56,7 @@ Capture the output of `sudo ufw status verbose` showing the active rules and sav
 Always allow SSH **before** enabling UFW on a remote machine (e.g. a cloud VM), otherwise you may lose remote access entirely.
 
 ## 🎥 Demo Video
-"Configuring a Basic Firewall Using UFW on Ubuntu" — add your video link here once recorded.
+"Configuring a Basic Firewall Using UFW on Ubuntu".
 
 ## ✅ Internship Requirement
 This task fulfills **Task 2 – Beginner Level** of the Oasis Infobyte Cybersecurity Internship.
